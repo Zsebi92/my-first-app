@@ -17,7 +17,7 @@ export default function FormInput() {
 
         const fieldName = changeEvent.target.name;
         const fieldValue = changeEvent.target.value;
-        const fieldPlaceholder = changeEvent.target.placeholder;
+
 
         console.log(changeEvent)
 
